@@ -1,6 +1,6 @@
 environment:
-  name: hsaab-dev-env
-  identifier: hsaabdevenv
+  name: cj-dev-env
+  identifier: cjdevenv
   description: ""
   tags: {}
   type: PreProduction
